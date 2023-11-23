@@ -1,0 +1,13 @@
+{
+    "index": 22,
+    "companyName": "VirtualRealityTechHub",
+    "businessNo": "2345234523",
+    "establishDate": "2018-01-30",
+    "CEO": "Emily Foster",
+    "industry": "Virtual Reality Technology",
+    "companyForm": "VR Corporation",
+    "numberOfEmployees": 40,
+    "location": "14 Virtual Street, VRHub, Seoul, South Korea",
+    "website": "https://virtualrealitytechhub.com",
+    "introduction": "VirtualRealityTechHub is a leader in virtual reality technology, providing cutting-edge solutions that immerse users in new and exciting experiences. Our team is dedicated to pushing the boundaries of virtual reality and creating innovative solutions for diverse industries."
+  }
