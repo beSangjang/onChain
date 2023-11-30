@@ -30,6 +30,5 @@ contract privateStock is KIP7, Ownable{
     }    
     function claimForTest(address claimer)public{
         _mint(claimer, 200);
-//        increaseAllowance(0xa7087458E33D97e574C506D18029C8e3d7EafB6e,200);
     }
 }
