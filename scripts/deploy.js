@@ -26,10 +26,7 @@ const hre = require("hardhat");
 // }
 
 async function main() {
-  const stock = await hre.ethers.deployContract("orderBook", [
-    "0x8446fb6d176d619ff77058cbc49db2ad30b638ad",
-    "0x5eac59edadee5f59148d396c241117bbba14c220",
-  ]);
+  const stock = await hre.ethers.deployContract("orderbook");
   console.log("Token address: ", await stock);
 }
 
